@@ -1,0 +1,3 @@
+﻿  VulkanApp.cpp
+h:\vulkan_workspace\vulkanlearning\vulkanapp\vulkanapp.cpp(1880): warning C4244: "Argument": Konvertierung von "vk::DeviceSize" in "size_t", möglicher Datenverlust
+  VulkanApp.vcxproj -> H:\vulkan_workspace\VulkanLearning\Debug\VulkanApp.exe

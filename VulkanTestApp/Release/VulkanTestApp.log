@@ -1,0 +1,9 @@
+﻿  GraphicPipeline.cpp
+GraphicPipeline.cpp(349): warning C4101: "result": Unreferenzierte lokale Variable
+GraphicPipeline.cpp(380): warning C4101: "result": Unreferenzierte lokale Variable
+  Code wird generiert.
+  1 of 1345 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  VulkanTestApp.vcxproj -> H:\vulkan_workspace\VulkanLearning\Release\VulkanTestApp.exe
